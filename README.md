@@ -84,3 +84,7 @@ HASS_URL=http://homeassistant.local:8123 HASS_TOKEN=xxx npm start -- hass
 - `msp-world` 保持纯源码形态（默认不安装 `node_modules`）。仅在使用 `minecraft` 节点时需要执行 `npm install`。
 - 12 个多步骤/状态受限节点（`hass`, `minecraft`, `image`, `hearthstone`, `sts`, `buckshot`, `stardew`, `majsoul`, `pvz`, `overcooked2`, `bili_watch`, `watch_window`）均已注册 MSP 0.1.0a2 `SkillSpec`。
 - 图像类工具（`hass_camera_snapshot`, `image_generate`, `watch_window_look`）均已使用 `ToolResult` 返回标准 `ImageContent` / `BlobRef`。
+
+## 上游与致谢
+
+本项目的 World 能力参考或移植自 [Pal-AI-Lab/Cortico](https://github.com/Pal-AI-Lab/Cortico) 及其社区生态。各节点仓库 README 列出了源码记录的上游项目和已核实的作者；未能核实的作者标注为待确认。MSP 实现的许可证版权署名为 [hxh230802](https://github.com/hxh230802)，详见 [msp-ts](https://github.com/msp-world/msp-ts)。感谢所有上游作者与贡献者。
