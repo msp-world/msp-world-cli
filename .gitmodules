@@ -1,0 +1,75 @@
+[submodule "msp-ts"]
+	path = msp-ts
+	url = https://github.com/msp-world/msp-ts.git
+[submodule "src/bili-live-reminder"]
+	path = src/bili-live-reminder
+	url = https://github.com/msp-world/bili-live-reminder.git
+[submodule "src/bili-watch"]
+	path = src/bili-watch
+	url = https://github.com/msp-world/bili-watch.git
+[submodule "src/bilibili"]
+	path = src/bilibili
+	url = https://github.com/msp-world/bilibili.git
+[submodule "src/buckshot"]
+	path = src/buckshot
+	url = https://github.com/msp-world/buckshot.git
+[submodule "src/douyin-live"]
+	path = src/douyin-live
+	url = https://github.com/msp-world/douyin-live.git
+[submodule "src/ets2"]
+	path = src/ets2
+	url = https://github.com/msp-world/ets2.git
+[submodule "src/hass"]
+	path = src/hass
+	url = https://github.com/msp-world/hass.git
+[submodule "src/hearthstone"]
+	path = src/hearthstone
+	url = https://github.com/msp-world/hearthstone.git
+[submodule "src/image"]
+	path = src/image
+	url = https://github.com/msp-world/image.git
+[submodule "src/majsoul"]
+	path = src/majsoul
+	url = https://github.com/msp-world/majsoul.git
+[submodule "src/minecraft"]
+	path = src/minecraft
+	url = https://github.com/msp-world/minecraft.git
+[submodule "src/music"]
+	path = src/music
+	url = https://github.com/msp-world/music.git
+[submodule "src/overcooked2"]
+	path = src/overcooked2
+	url = https://github.com/msp-world/overcooked2.git
+[submodule "src/presence"]
+	path = src/presence
+	url = https://github.com/msp-world/presence.git
+[submodule "src/pvz"]
+	path = src/pvz
+	url = https://github.com/msp-world/pvz.git
+[submodule "src/pz"]
+	path = src/pz
+	url = https://github.com/msp-world/pz.git
+[submodule "src/shared"]
+	path = src/shared
+	url = https://github.com/msp-world/shared.git
+[submodule "src/stardew"]
+	path = src/stardew
+	url = https://github.com/msp-world/stardew.git
+[submodule "src/steam"]
+	path = src/steam
+	url = https://github.com/msp-world/steam.git
+[submodule "src/sts"]
+	path = src/sts
+	url = https://github.com/msp-world/sts.git
+[submodule "src/titanfall2"]
+	path = src/titanfall2
+	url = https://github.com/msp-world/titanfall2.git
+[submodule "src/warthunder"]
+	path = src/warthunder
+	url = https://github.com/msp-world/warthunder.git
+[submodule "src/watch-window"]
+	path = src/watch-window
+	url = https://github.com/msp-world/watch-window.git
+[submodule "src/weather"]
+	path = src/weather
+	url = https://github.com/msp-world/weather.git

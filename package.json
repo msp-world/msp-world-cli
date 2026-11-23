@@ -1,0 +1,33 @@
+{
+  "name": "msp-world-cli",
+  "version": "0.1.0",
+  "description": "MSP（Model Sensing Protocol）外部 World 节点集合 —— 移植自 Cortico Worlds",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "start": "node src/cli.ts",
+    "lint": "node src/cli.ts --lint",
+    "hass": "node src/hass/index.ts",
+    "weather": "node src/weather/index.ts",
+    "bilibili": "node src/bilibili/index.ts",
+    "minecraft": "node src/minecraft/index.ts",
+    "image": "node src/image/index.ts",
+    "warthunder": "node src/warthunder/index.ts",
+    "ets2": "node src/ets2/index.ts",
+    "hearthstone": "node src/hearthstone/index.ts",
+    "steam": "node src/steam/index.ts",
+    "music": "node src/music/index.ts",
+    "sts": "node src/sts/index.ts",
+    "overcooked2": "node src/overcooked2/index.ts",
+    "stardew": "node src/stardew/index.ts",
+    "majsoul": "node src/majsoul/index.ts"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "vec3": "^0.2.0"
+  }
+}
